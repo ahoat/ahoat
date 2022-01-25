@@ -22,5 +22,7 @@ I'm hoping to pivot into a career within software development so I can spend my 
 
 I'm currently enrolled on Founders and Coders part-time programme and am really enjoying the peer led approach to learning.
 
+---
+## Contact
 
 
