@@ -22,11 +22,5 @@ I'm hoping to pivot into a career within software development so I can spend my 
 
 I'm currently enrolled on Founders and Coders part-time programme and am really enjoying the peer led approach to learning.
 
-Things I am currently working on:
 
-- Javascript practice
-- Founders and Coders agency project
-- Learning git workflow
-- Accessibility
-- More Javascript practice!!
 
