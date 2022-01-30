@@ -30,6 +30,7 @@ So far, I am learning HTML, CSS and Javascript but there's a long list of techno
 - Vue.js
 
 ---
+## My Github Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ahoat&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahoat&langs_count=5&theme=tokyonight)]()
 
